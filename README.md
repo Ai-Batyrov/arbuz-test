@@ -7,11 +7,10 @@
 ```
 GET-collection
 ```
-https://www.getpostman.com/collections/83395d6b7644426fb6c4
+https://drive.google.com/file/d/1gdSYBUwH7JKDM96xZJn-lzoRGfQKXsZ1/view?usp=sharing
 ```
 
 POST-collection
-
-``` 
-https://www.getpostman.com/collections/76978cc8f96bce49ad2b
+```
+https://drive.google.com/file/d/13yRMxdOIkADKYdGRYDRlmeBMEkJRR_EL/view?usp=sharing
 ```
