@@ -7,8 +7,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('orders', [OrdersController::class, 'index']);
+Route::get('orders', [OrdersController::class, 'index'])->name('get-all-orders');
 Route::get('orders/{id}', [OrdersController::class, 'show']);
-Route::post('orders', [OrdersController::class, 'store']);
+Route::post('orders', [OrdersController::class, 'store'])->name('post-order');
 Route::put('orders/{id}', [OrdersController::class, 'update']);
 Route::delete('orders/{id}', [OrdersController::class, 'delete']);
