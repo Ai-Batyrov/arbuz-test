@@ -1,4 +1,4 @@
-# Arbus Test
+# Arbuz Test
 ## Aibolat Batyrov
 
 ```
